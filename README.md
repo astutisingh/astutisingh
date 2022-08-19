@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Python
 
 - 😄 Pronouns: Her
 
